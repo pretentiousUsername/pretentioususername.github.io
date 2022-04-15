@@ -1,0 +1,4 @@
+title = "Hugo Quickstart"
+baseURL = "https://michaelcurrin.github.io/hugo-quickstart"
+languageCode = "en-us"
+theme = "ananke"
