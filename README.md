@@ -1,4 +1,12 @@
-# Hugo Quickstart
+# pretentioususername.github.io
+
+Nothing special, it's just my blog.
+
+<!-- Huge shoutout to whoever wrote this.
+https://www.simonspavound.com/posts/2020/09/equations-with-katex-in-hugo/
+-->
+
+<!--# Hugo Quickstart
 > Starter template for a Hugo static site
 
 [![GH Pages Deploy](https://github.com/MichaelCurrin/hugo-quickstart/workflows/GH%20Pages%20Deploy/badge.svg)](https://github.com/MichaelCurrin/hugo-quickstart/actions?query=workflow:"GH+Pages+Deploy")
@@ -44,4 +52,4 @@ This project was created using quickstart instructions on the Hugo website. See 
 
 ## License
 
-Released under [MIT](/LICENSE) by [@MichaelCurrin](https://github.com/MichaelCurrin).
+Released under [MIT](/LICENSE) by [@MichaelCurrin](https://github.com/MichaelCurrin).-->

@@ -1,6 +1,6 @@
 baseurl = "https://pretentioususername.github.io/"
 languageCode = "en-us"
-theme = "hugo-theme-hello-friend"
+theme = "hello-friend-ng"
 paginate = 5
 
 [params]
