@@ -1,0 +1,45 @@
+/* Time to trick CSS into thinking that HK Grotesk is Inter!*/
+@font-face {
+  font-family: 'HKGrotesk';
+  font-style:  normal;
+  font-display: auto;
+  //font-weight: 400;
+  src: url("../fonts/HKGrotesk-Regular.otf") format("otf"),
+}
+@font-face {
+  font-family: 'HKGrotesk';
+  font-style:  italic;
+  font-display: auto;
+  //font-weight: 400;
+  src: url("../fonts/HKGothic-Italic.otf") format("otf"),
+}
+
+@font-face {
+  font-family: 'HKGrotesk';
+  font-style:  normal;
+  font-display: auto;
+  //font-weight: 600;
+  src: url("../fonts/HKGothic-Bold.otf") format("otf"),
+}
+@font-face {
+  font-family: 'HKGrotesk';
+  font-style:  italic;
+  font-display: auto;
+  //font-weight: 600;
+  src: url("../fonts/HKGothic-BoldItalic.otf") format("otf"),
+}
+
+@font-face {
+  font-family: 'HKGrotesk';
+  font-style:  normal;
+  font-display: auto;
+  //font-weight: 800;
+  src: url("../fonts/HKGothic-ExtraBold.otf") format("otf"),
+}
+@font-face {
+  font-family: 'HKGrotesk';
+  font-style:  italic;
+  font-display: auto;
+  //*font-weight: 800;
+  src: url("../fonts/HKGothic-Black.otf") format("otf"),
+}
