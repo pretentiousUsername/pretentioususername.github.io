@@ -18,4 +18,5 @@
             {{- end}}
         </span>
     </span>
+    {{ if .Params.math }} {{ partial "math.html" . }}{{ end }}
 </header>
