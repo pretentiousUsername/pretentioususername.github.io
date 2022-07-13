@@ -33,7 +33,7 @@ jobs:
           extended: true
 
       - name: Build 🏗
-        run: make build
+        run: hugo
 
       - name: Deploy to GH Pages 🚀
         if: ${{ github.event_name != 'pull_request' }}
