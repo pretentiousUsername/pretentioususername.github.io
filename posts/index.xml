@@ -1,22 +1,5 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Posts on pretentiousUsername</title>
-        <link>https://pretentioususername.github.io/posts/</link>
-        <description>Recent content in Posts on pretentiousUsername</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language>
-        <lastBuildDate>Tue, 12 Jul 2022 00:00:00 +0000</lastBuildDate>
-        <atom:link href="https://pretentioususername.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-        
-        <item>
-            <title>Anime review: *Keep your hands off Eizouken!*</title>
-            <link>https://pretentioususername.github.io/posts/2022-07-12_eizouken/</link>
-            <pubDate>Tue, 12 Jul 2022 00:00:00 +0000</pubDate>
-            
-            <guid>https://pretentioususername.github.io/posts/2022-07-12_eizouken/</guid>
-            <description>Honestly, I don&amp;rsquo;t think any other show will come close to Keep your hands off Eizouken!, and not to their own detriment. Eizouken is a show unlike any other that I&amp;rsquo;ve seen&amp;mdash;it&amp;rsquo;s bold, imaginative, and incredibly well animated, all while keeping a story with relatively few stakes, and only three main characters.
-The show&amp;rsquo;s plot is somewhat self-explanatory&amp;mdash;three high school girls make a club to produce anime, hijinks ensue. In many ways, the plot is low-stakes&amp;mdash;characters are never in any serious danger;1 and the only violence in the show is both for comedic effect, and never ends up hurting anyone.</description>
-            <content type="html"><![CDATA[<p>Honestly, I don&rsquo;t think any other show will come close to <em>Keep your hands
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on pretentiousUsername</title><link>https://pretentioususername.github.io/posts/</link><description>Recent content in Posts on pretentiousUsername</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 12 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://pretentioususername.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Anime review: *Keep your hands off Eizouken!*</title><link>https://pretentioususername.github.io/posts/2022-07-12_eizouken/</link><pubDate>Tue, 12 Jul 2022 00:00:00 +0000</pubDate><guid>https://pretentioususername.github.io/posts/2022-07-12_eizouken/</guid><description>Honestly, I don&amp;rsquo;t think any other show will come close to Keep your hands off Eizouken!, and not to their own detriment. Eizouken is a show unlike any other that I&amp;rsquo;ve seen&amp;mdash;it&amp;rsquo;s bold, imaginative, and incredibly well animated, all while keeping a story with relatively few stakes, and only three main characters.
+The show&amp;rsquo;s plot is somewhat self-explanatory&amp;mdash;three high school girls make a club to produce anime, hijinks ensue. In many ways, the plot is low-stakes&amp;mdash;characters are never in any serious danger;1 and the only violence in the show is both for comedic effect, and never ends up hurting anyone.</description><content type="html"><![CDATA[<p>Honestly, I don&rsquo;t think any other show will come close to <em>Keep your hands
 off Eizouken!</em>, and not to their own detriment. <em>Eizouken</em> is a show
 unlike any other that I&rsquo;ve seen&mdash;it&rsquo;s bold, imaginative, and incredibly
 well animated, all while keeping a story with relatively few stakes, and
@@ -80,7 +63,7 @@ put an episode on&mdash;and then free up four more hours to watch the rest.</p>
 <p><strong>Pacing:</strong> 7/10</p>
 <p><strong>Dialogue:</strong> 8/10</p>
 <hr>
-<p>**Overall rating:&mdash;**9/10</p>
+<p><strong>Overall rating:</strong> 9/10</p>
 </blockquote>
 <div class="footnotes" role="doc-endnotes">
 <hr>
@@ -99,20 +82,10 @@ drawn as racist caricatures.&#160;<a href="#fnref:3" class="footnote-backref" ro
 </li>
 </ol>
 </div>
-]]></content>
-        </item>
-        
-        <item>
-            <title>Testing out some stuff with markdown</title>
-            <link>https://pretentioususername.github.io/posts/2022-06-15_test/</link>
-            <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
-            
-            <guid>https://pretentioususername.github.io/posts/2022-06-15_test/</guid>
-            <description>The Lindblad master equation is a Markovian, first-order differential equation for calculating the time-evolution of a density matrix, \(\rho\).
+]]></content></item><item><title>Testing out some stuff with markdown</title><link>https://pretentioususername.github.io/posts/2022-06-15_test/</link><pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate><guid>https://pretentioususername.github.io/posts/2022-06-15_test/</guid><description>The Lindblad master equation is a Markovian, first-order differential equation for calculating the time-evolution of a density matrix, \(\rho\).
 $$ \frac{\partial \rho}{\partial t} = -\frac{i}{\hbar} \left[ H, \rho \right] + \sum_{i = 1}^{N^2 - 1} \gamma_i \left( L_i \rho L_i^\dagger - \frac{1}{2} \overline{ \left[ L_i^\dagger L_i, \rho \right] } \right) , $$ where \( \overline{[A, B]} \) is the anticommutator.1
 This is a table
-Table of tables foo fooo foooo Unfortunately, for whatever reason, KaTeX doesn&amp;rsquo;t like using escaped \left\{ and \right\}&amp;mdash;so much so that they&amp;rsquo;re not rendered into the equation&amp;mdash;therefore, I must make due.</description>
-            <content type="html"><![CDATA[<p>The Lindblad master equation is a Markovian, first-order differential
+Table of tables foo fooo foooo Unfortunately, for whatever reason, KaTeX doesn&amp;rsquo;t like using escaped \left\{ and \right\}&amp;mdash;so much so that they&amp;rsquo;re not rendered into the equation&amp;mdash;therefore, I must make due.</description><content type="html"><![CDATA[<p>The Lindblad master equation is a Markovian, first-order differential
 equation for calculating the time-evolution of a density matrix,
 \(\rho\).</p>
 <!-- raw HTML omitted -->
@@ -149,19 +122,9 @@ equation&mdash;therefore, I must make due.&#160;<a href="#fnref:1" class="footno
 </li>
 </ol>
 </div>
-]]></content>
-        </item>
-        
-        <item>
-            <title>In the begining</title>
-            <link>https://pretentioususername.github.io/posts/2022-04-15_first/</link>
-            <pubDate>Fri, 15 Apr 2022 00:00:00 +0000</pubDate>
-            
-            <guid>https://pretentioususername.github.io/posts/2022-04-15_first/</guid>
-            <description>Yeah&amp;mdash;that&amp;rsquo;s a real imaginative title. No one else has ever ripped of the Bible.
+]]></content></item><item><title>In the begining</title><link>https://pretentioususername.github.io/posts/2022-04-15_first/</link><pubDate>Fri, 15 Apr 2022 00:00:00 +0000</pubDate><guid>https://pretentioususername.github.io/posts/2022-04-15_first/</guid><description>Yeah&amp;mdash;that&amp;rsquo;s a real imaginative title. No one else has ever ripped of the Bible.
 Behold! Anyways, this is my new blog. I&amp;rsquo;m pretty sure absolutely no one in their right mind would want to read it, but I like writing, and I figured it&amp;rsquo;d be nice to put it all in one place.
-Many people, as far as I know, like to keep blogs for employability&amp;rsquo;s sake&amp;mdash;write about something in programming or whatnot&amp;mdash;but for me, I just need a place to do some long-form writing.</description>
-            <content type="html"><![CDATA[<p>Yeah&mdash;that&rsquo;s a <em>real</em> imaginative title. No one else has <em>ever</em> ripped of
+Many people, as far as I know, like to keep blogs for employability&amp;rsquo;s sake&amp;mdash;write about something in programming or whatnot&amp;mdash;but for me, I just need a place to do some long-form writing.</description><content type="html"><![CDATA[<p>Yeah&mdash;that&rsquo;s a <em>real</em> imaginative title. No one else has <em>ever</em> ripped of
 the Bible.</p>
 <h2 id="behold">Behold!</h2>
 <p>Anyways, this is my new blog. I&rsquo;m pretty sure absolutely no one in their
@@ -198,8 +161,4 @@ known to humankind.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-b
 </li>
 </ol>
 </div>
-]]></content>
-        </item>
-        
-    </channel>
-</rss>
+]]></content></item></channel></rss>
