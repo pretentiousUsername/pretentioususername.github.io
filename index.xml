@@ -1,66 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>pretentiousUsername</title>
-    <link>https://pretentioususername.github.io/</link>
-    <description>Recent content on pretentiousUsername</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 13 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://pretentioususername.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The hummingbird: a synth I&#39;m working on</title>
-      <link>https://pretentioususername.github.io/posts/2022-07-13_hummingbird/</link>
-      <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://pretentioususername.github.io/posts/2022-07-13_hummingbird/</guid>
-      <description>When people think of analog synthesizers, they&amp;mdash;and I&amp;mdash;like to think of massive, hulking modular systems, steel Junos, and woodgrain. Of course, that&amp;rsquo;s all great&amp;mdash;I love that kind of stuff. But, here&amp;rsquo;s a problem: What if I wanted to make something small enough to fit in a backpack while remaining affordable?&amp;mdash;and what I wanted to give it features that are out of the ordinary for an average synthesizer?
-That&amp;rsquo;s the main goal of the Hummingbird&amp;mdash;something that is as small as possible while not sacrificing on features.</description>
-    </item>
-    
-    <item>
-      <title>Anime review: *Keep your hands off Eizouken!*</title>
-      <link>https://pretentioususername.github.io/posts/2022-07-12_eizouken/</link>
-      <pubDate>Tue, 12 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://pretentioususername.github.io/posts/2022-07-12_eizouken/</guid>
-      <description>Honestly, I don&amp;rsquo;t think any other show will come close to Keep your hands off Eizouken!, and not to their own detriment. Eizouken is a show unlike any other that I&amp;rsquo;ve seen&amp;mdash;it&amp;rsquo;s bold, imaginative, and incredibly well animated, all while keeping a story with relatively few stakes, and only three main characters.
-The show&amp;rsquo;s plot is somewhat self-explanatory&amp;mdash;three high school girls make a club to produce anime, hijinks ensue. In many ways, the plot is low-stakes&amp;mdash;characters are never in any serious danger;1 and the only violence in the show is both for comedic effect, and never ends up hurting anyone.</description>
-    </item>
-    
-    <item>
-      <title>Testing out some stuff with markdown</title>
-      <link>https://pretentioususername.github.io/posts/2022-06-15_test/</link>
-      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://pretentioususername.github.io/posts/2022-06-15_test/</guid>
-      <description>The Lindblad master equation is a Markovian, first-order differential equation for calculating the time-evolution of a density matrix, \(\rho\).
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>pretentiousUsername</title><link>https://pretentioususername.github.io/</link><description>Recent content on pretentiousUsername</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 13 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://pretentioususername.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>The hummingbird: a synth I'm working on</title><link>https://pretentioususername.github.io/posts/2022-07-13_hummingbird/</link><pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate><guid>https://pretentioususername.github.io/posts/2022-07-13_hummingbird/</guid><description>When people think of analog synthesizers, they&amp;mdash;and I&amp;mdash;like to think of massive, hulking modular systems, steel Junos, and woodgrain. Of course, that&amp;rsquo;s all great&amp;mdash;I love that kind of stuff. But, here&amp;rsquo;s a problem: What if I wanted to make something small enough to fit in a backpack while remaining affordable?&amp;mdash;and what I wanted to give it features that are out of the ordinary for an average synthesizer?
+That&amp;rsquo;s the main goal of the Hummingbird&amp;mdash;something that is as small as possible while not sacrificing on features.</description></item><item><title>Anime review: *Keep your hands off Eizouken!*</title><link>https://pretentioususername.github.io/posts/2022-07-12_eizouken/</link><pubDate>Tue, 12 Jul 2022 00:00:00 +0000</pubDate><guid>https://pretentioususername.github.io/posts/2022-07-12_eizouken/</guid><description>Honestly, I don&amp;rsquo;t think any other show will come close to Keep your hands off Eizouken!, and not to their own detriment. Eizouken is a show unlike any other that I&amp;rsquo;ve seen&amp;mdash;it&amp;rsquo;s bold, imaginative, and incredibly well animated, all while keeping a story with relatively few stakes, and only three main characters.
+The show&amp;rsquo;s plot is somewhat self-explanatory&amp;mdash;three high school girls make a club to produce anime, hijinks ensue. In many ways, the plot is low-stakes&amp;mdash;characters are never in any serious danger;1 and the only violence in the show is both for comedic effect, and never ends up hurting anyone.</description></item><item><title>Testing out some stuff with markdown</title><link>https://pretentioususername.github.io/posts/2022-06-15_test/</link><pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate><guid>https://pretentioususername.github.io/posts/2022-06-15_test/</guid><description>The Lindblad master equation is a Markovian, first-order differential equation for calculating the time-evolution of a density matrix, \(\rho\).
 $$ \frac{\partial \rho}{\partial t} = -\frac{i}{\hbar} \left[ H, \rho \right] + \sum_{i = 1}^{N^2 - 1} \gamma_i \left( L_i \rho L_i^\dagger - \frac{1}{2} \overline{ \left[ L_i^\dagger L_i, \rho \right] } \right) , $$ where \( \overline{[A, B]} \) is the anticommutator.1
 This is a table
-Table of tables foo fooo foooo Unfortunately, for whatever reason, KaTeX doesn&amp;rsquo;t like using escaped \left\{ and \right\}&amp;mdash;so much so that they&amp;rsquo;re not rendered into the equation&amp;mdash;therefore, I must make due.</description>
-    </item>
-    
-    <item>
-      <title>About me</title>
-      <link>https://pretentioususername.github.io/about/aboutme/</link>
-      <pubDate>Fri, 15 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://pretentioususername.github.io/about/aboutme/</guid>
-      <description>I can certify, with one-hundred percent clarity, that is indeed me.
+Table of tables foo fooo foooo Unfortunately, for whatever reason, KaTeX doesn&amp;rsquo;t like using escaped \left\{ and \right\}&amp;mdash;so much so that they&amp;rsquo;re not rendered into the equation&amp;mdash;therefore, I must make due.</description></item><item><title>About me</title><link>https://pretentioususername.github.io/about/aboutme/</link><pubDate>Fri, 15 Apr 2022 00:00:00 +0000</pubDate><guid>https://pretentioususername.github.io/about/aboutme/</guid><description>I can certify, with one-hundred percent clarity, that is indeed me.
 Howdy!
 I&amp;rsquo;m an undergraduate physics student currently at Temple University. Outside of my current classwork, my main interests are in condensed matter physics (specifically in the areas more related to statistical statistical mechanics, such as interacting many-body theory), analog electronics, DSP, programming, typography, and music.
-So far, I have a groundbreaking zero publications in my field&amp;mdash;and I&amp;rsquo;m proud to say I have a record-smashing zero citations as well; I am in fact in the top 100% of scholars with an ORCID.</description>
-    </item>
-    
-    <item>
-      <title>In the begining</title>
-      <link>https://pretentioususername.github.io/posts/2022-04-15_first/</link>
-      <pubDate>Fri, 15 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://pretentioususername.github.io/posts/2022-04-15_first/</guid>
-      <description>Yeah&amp;mdash;that&amp;rsquo;s a real imaginative title. No one else has ever ripped of the Bible.
+So far, I have a groundbreaking zero publications in my field&amp;mdash;and I&amp;rsquo;m proud to say I have a record-smashing zero citations as well; I am in fact in the top 100% of scholars with an ORCID.</description></item><item><title>In the begining</title><link>https://pretentioususername.github.io/posts/2022-04-15_first/</link><pubDate>Fri, 15 Apr 2022 00:00:00 +0000</pubDate><guid>https://pretentioususername.github.io/posts/2022-04-15_first/</guid><description>Yeah&amp;mdash;that&amp;rsquo;s a real imaginative title. No one else has ever ripped of the Bible.
 Behold! Anyways, this is my new blog. I&amp;rsquo;m pretty sure absolutely no one in their right mind would want to read it, but I like writing, and I figured it&amp;rsquo;d be nice to put it all in one place.
-Many people, as far as I know, like to keep blogs for employability&amp;rsquo;s sake&amp;mdash;write about something in programming or whatnot&amp;mdash;but for me, I just need a place to do some long-form writing.</description>
-    </item>
-    
-  </channel>
-</rss>
+Many people, as far as I know, like to keep blogs for employability&amp;rsquo;s sake&amp;mdash;write about something in programming or whatnot&amp;mdash;but for me, I just need a place to do some long-form writing.</description></item></channel></rss>
