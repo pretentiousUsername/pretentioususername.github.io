@@ -1,0 +1,3 @@
+[submodule "themes/delay"]
+	path = themes/delay
+	url = https://github.com/pretentiousUsername/delay
