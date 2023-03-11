@@ -1,3 +1,33 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+#baseURL = 'http://pretentioususername.github.io/'
+baseURL = "/"
+languageCode = "en-us"
+title = "pretentiousUsername"
+themesdir = "themes/"
+theme = "delay"
+
+
+[author]
+    homepage = "https://pretentioususername.github.io"
+
+[params]
+    contentTypeName = "posts"
+    defaultTheme = "dark"
+    showMenuItems = 2
+    math = true
+
+[languages]
+    [languages.en]
+        title = "strongly correlated words"
+	dateFormatSingle = "2006-01-02"
+	dateFormatList = "2006-01-02"
+
+    [languages.en.menu]
+        [[languages.en.menu.main]]
+	    identifier = "1"
+	    name = "posts"
+	    url = "/posts"
+	[[languages.en.menu.main]]
+	    identifier = "2"
+	    name = "about"
+	    url = "/about"
+
