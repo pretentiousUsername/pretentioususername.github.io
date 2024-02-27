@@ -2,7 +2,7 @@
 title: "High-level programming concepts for non-programmers"
 subtitle: "your own personal guide"
 author: Ian Mitchell
-date: 2024-02-17
+date: 2024-02-20
 ---
 
 $$\def\ramenNoodles{\text{ramen noodles}}
@@ -22,27 +22,21 @@ blame them either, because programming---its constructs, grammar, and
 concepts---can be nigh-unapproachable to outsiders. There's a lot of jargon
 to cut through.
 
-I can only offer to help a small amount, because the bare-silicon programming
-stuff (such assembler, CPU instruction sets, etc.) *is* that hard. But over
-time, programmers smarter than I have whittled away at the hard stuff and given
-us nice, abstracted programming languages---these have existed since the 1950s,
-with languages like [COBOL][cb] and [Fortran][ft] as the easiest to learn
-of their day.[^coballin] Nowadays, we have even easier languages, such as
-[Lua][lua], [Python][py], [Julia][jl], and [Rust][rs]---there are about
-ten-billion other programming languages out there, but the easiest to start
-with, in my opinion, are Python and Lua.
+Let me state, first, that "high-level" concepts in programming are *not*
+advanced concepts. When we say "high-level," we mean that all of the hardware
+stuff---the CPU instruction set, along with all the $1$s and $0$s---is
+abstracted away so as to be more natural to regular people; rather than thinking
+of a memory address holding a single number, we can just think about a variable
+equal to a number. High-level programming is incredibly effective at making
+complex systems work because we can think of them in human terms. The modern
+programmer has an incredibly rich set of languages to work with, the vast
+majority of them free---both as in "free beer" and "freedom"---and packed with
+sophisticated features.
 
 
 [cb]: https://en.wikipedia.org/wiki/COBOL
 
 [ft]: https://en.wikipedia.org/wiki/Fortran
-
-[^coballin]: If you know anything about COBOL, you'll know that it was a
-horrible language to write. Being so terrible, COBOL was actually a rather
-lucrative language to learn, considering that it was largely used by banks
-and not many people wanted to write it. Nowadays, COBOL is being phased out,
-and you'd have a better time looking for a job working with an obscure
-programming language from the 1990s, like Visual Basic 6.
 
 [lua]: https://en.wikipedia.org/wiki/Lua_(programming_language)
 
@@ -73,15 +67,23 @@ demands you either put it in a way that it understands, or just remove that
 bit you said in its entirety. A computer doesn't really have dialects in the
 way you or I might, and they do not take kindly to imprecise wording.
 
-Computers also have a limited range of base "things" that they can work with.
+
+
+# A computer can't sit in a chair
+Computers have a limited range of base "things" that they can work with.
 We're used to dealing with *natural*, everyday concepts---you see a chair, you
 sit in it, and you know it's a chair. Computers, owing to the fact that they
 can not experience everyday life, are incapable of understanding the nuances
 of, say, birds or buildings. At the high-level, the main things a computer can
 work with are numbers, alphanumeric characters (such as "a"), and lists/arrays
 of those two things---all of the programs you've ever run first deal with those
-two **types** of data. Even the most advanced physics simulations are, at the
-end of the day, just a bunch of numbers, and maybe a few letters.
+two **types** of data.
+
+Indeed, much of the really sophisticated programs you see nowadays---game
+engines, digital audio workstations, and your computer's operating system---work
+by creating what can be described as 
+
+
 
 
 # Functions
@@ -106,18 +108,5 @@ use the function $\boil{\rawRamenNoodles}$; if we want to add $1$ to $x$, we
 use the function $f(x)$.
 
 
-# A word on getting into programming
-If you've made it this far, I'm assuming that you want to start programming.
-That's great! Outside of apps, games, and everything you would normally do on
-a computer, a lot of people outside of computer science program all the time.
-I'm a physics major and, technically, a theoretical physicist---though I'm
-certainly no PW Anderson---and I program calculations that I could not normally
-do using using a pen and paper; statisticians use code to look at large
-datasets that would be impractical with a regular spreadsheet; engineers use
-code to make sure buildings or circuits don't kill you. Programming is not
-exclusively for computer scientists and specialist software engineers---anyone
-can talk to a computer, just like how anyone can learn American Sign Language
-or Spanish.
+# Ok, now what?
 
-One thing I would like to mention is that the culture for online programmers
-is just terrible.
