@@ -18,8 +18,8 @@ theme = "delay"
 [languages]
     [languages.en]
         title = "strongly correlated words"
-	dateFormatSingle = "2006-01-02"
-	dateFormatList = "2006-01-02"
+	    dateFormatSingle = "2006-01-02"
+	    dateFormatList = "2006-01-02"
 
     [languages.en.menu]
         [[languages.en.menu.main]]
