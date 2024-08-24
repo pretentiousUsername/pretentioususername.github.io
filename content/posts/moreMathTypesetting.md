@@ -5,6 +5,10 @@ author: Ian Mitchell
 tags: ["math", "physics", "typesetting"]
 ---
 
+You know, git is a wonderful piece of software, and I love the way that it
+enables developers to easily do version control and all that other great stuff,
+but sometimes it fights me, and I don't know why.
+
 Here's some math typesetting stuff. For starters I'll just write down the
 Linblad equation, a nice bit of physics for open quantum systems,
 <!--$$ \frac{\partial \rho(r, t)}{\partial t} = 
