@@ -1,3 +1,4 @@
 [submodule "themes/delay"]
 	path = themes/delay
-	url = https://github.com/pretentiousUsername/delay
+    url = https://github.com/pretentiousUsername/delay
+    branch = mathjax
