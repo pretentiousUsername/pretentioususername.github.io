@@ -3,6 +3,7 @@ title: More math typesetting
 date: 2023-03-09
 author: Ian Mitchell
 tags: ["math", "physics", "typesetting"]
+draft: true
 ---
 
 You know, git is a wonderful piece of software, and I love the way that it
